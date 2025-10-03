@@ -111,3 +111,5 @@ These crates follow [semver](https://semver.org).
 
 - Function signatures which generate the same selector values will now fail
   at compile-time to avoid misleading contract calls.
+
+<!-- Auto-update: 2025-10-03T15:07:47.976245 -->
